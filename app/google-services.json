@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434551920107",
+    "firebase_url": "https://blogapp-398d3.firebaseio.com",
+    "project_id": "blogapp-398d3",
+    "storage_bucket": "blogapp-398d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434551920107:android:a4e06922624dcaaad5f5ae",
+        "android_client_info": {
+          "package_name": "com.kalu.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434551920107-df796t1kbhvos85t89lu0bkue3tqphq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRSGnF8VaWomjzf5F9J_nmwp0YWmA0qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434551920107-df796t1kbhvos85t89lu0bkue3tqphq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
